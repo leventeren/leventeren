@@ -1,8 +1,12 @@
-twitter: https://twitter.com/leventeren
+Twitter: https://twitter.com/leventeren
 
-linkedin: https://www.linkedin.com/in/leventeren
+Linkedin: https://www.linkedin.com/in/leventeren
 
 Gist: https://gist.github.com/leventeren
+
+Behance: https://www.behance.net/leventeren
+
+Play Store Developer Page: https://play.google.com/store/apps/dev?id=8666692572851838279
 
 ### Languages and Tools:
 ---
