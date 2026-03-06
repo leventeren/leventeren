@@ -13,6 +13,7 @@ Oyun geliştirmeyi sadece bir iş olarak değil, bir tutku olarak görüyorum. G
 * **[Addressable-Pool](https://github.com/leventeren/Addressable-Pool):** Addressables sistemini kullanan performans odaklı bir Object Pooling çözümü.
 * **[State-Manager](https://github.com/leventeren/State-Manager):** Esnek ve genişletilebilir bir durum yönetimi (State Machine) kütüphanesi.
 * **[Waterfall-Shader](https://github.com/leventeren/Waterfall-Shader):** Unity için optimize edilmiş görsel şelale efekti çalışması.
+* **[Data Binding System](https://github.com/leventeren/Unity-Data-Binding-System):** Unity için reaktif state yönetim framework'ü.
 
 ---
 
