@@ -8,6 +8,7 @@ Oyun geliştirmeyi sadece bir iş olarak değil, bir tutku olarak görüyorum. G
 
 ### 🚀 Öne Çıkan Projelerim
 
+* **[Crew AI](https://github.com/leventeren/Crew-Ai-Unity):** Crew AI: Unity oyun geliştirme süreçlerini yapay zeka ajanları ile otomatize eden, mimari odaklı bir geliştirme ortamıdır.
 * **[FirebaseAuthWithUnity](https://github.com/leventeren/FirebaseAuthWithUnity):** Firebase Authentication sisteminin Unity projelerine entegrasyonu.
 * **[BasicServiceLocater](https://github.com/leventeren/BasicServiceLocater):** Unity için hafif ve etkili bir Service Locator yapısı.
 * **[Addressable-Pool](https://github.com/leventeren/Addressable-Pool):** Addressables sistemini kullanan performans odaklı bir Object Pooling çözümü.
